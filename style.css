@@ -1,0 +1,11 @@
+body{
+    background: "background.jpg";
+}
+
+#heading{
+    font-family:'comic neue' , cursive;
+}
+
+#snapshot{
+    width: 10%;
+}
